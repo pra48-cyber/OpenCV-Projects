@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)](https://opencv.org/)
 [![YOLOv3](https://img.shields.io/badge/YOLOv3-Object%20Detection-orange.svg)](https://pjreddie.com/darknet/yolo/)
-[![License](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE)
+
 
 A comprehensive computer vision toolkit featuring real-time face recognition, facial expression detection, and object detection using state-of-the-art machine learning models.
 
